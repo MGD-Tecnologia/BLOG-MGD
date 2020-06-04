@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "How to Install OpenStage Control"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
