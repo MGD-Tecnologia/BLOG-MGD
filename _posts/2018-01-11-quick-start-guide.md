@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "CI/CD with Jenkins"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
